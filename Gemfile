@@ -57,7 +57,7 @@ group :development, :test do
   gem 'capybara', '>= 2.15'
   gem 'selenium-webdriver'
   gem 'sqlite3', '< 1.4'
-  gem 'better_errors', '~> 2.5', '>= 2.5.1'
+  gem 'better_errors', '~> 2.8'
   gem 'guard', '~> 2.16', '>= 2.16.1'
   gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
 end
